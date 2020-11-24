@@ -69,6 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-In this second  rash course, I learned:
+## In this second  rash course, 
 
-Only `function component`
+I learned to create an application:
+
+Only with `function component`
+
+Told about `Hooks`
+
+`Axios` to get `url`
+
+`useEffect`;
+
+`useParams`
+
+and how to customize my `Hook`: (`useState`);
